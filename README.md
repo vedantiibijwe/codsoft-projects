@@ -8,3 +8,4 @@ The Number Guessing Game is an interactive program where the system randomly sel
 3.Hint System: Informing the player whether their guess is higher or lower than the actual number.
 4.Score Tracking (Optional): Counting attempts and giving performance feedback.
 5.Loop & Condition Handling: Running the game until the correct guess is made.
+
